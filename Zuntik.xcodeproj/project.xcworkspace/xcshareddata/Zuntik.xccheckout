@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1A323787-421A-4386-80A3-B034867BE132</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>67bbe329-9647-304d-99ec-de45c1711269++6605</key>
+		<string>http://192.168.1.51:81/svn/Event-IOS/Latest_Event_29Apr2014_1pm/Event/DatabaseManger</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>67bbe329-9647-304d-99ec-de45c1711269++6605</key>
+		<string>DatabaseManger/</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>67bbe329-9647-304d-99ec-de45c1711269++6605</key>
+		<string>http://192.168.1.51:81/svn/Event-IOS</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://192.168.1.51:81/svn/Event-IOS/Latest_Event_29Apr2014_1pm/Event/DatabaseManger</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>67bbe329-9647-304d-99ec-de45c1711269++6605</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>67bbe329-9647-304d-99ec-de45c1711269++6605</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DatabaseManger</string>
+		</dict>
+	</array>
+</dict>
+</plist>
